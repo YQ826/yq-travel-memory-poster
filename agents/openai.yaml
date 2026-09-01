@@ -1,0 +1,8 @@
+interface:
+  display_name: "YQ Travel Memory Poster"
+  short_description: "Turn travel photos into collectible postcard journals"
+  brand_color: "#123A63"
+  default_prompt: "Use $yq-travel-memory-poster to turn my photo into a 2:3 travel postcard poster."
+
+policy:
+  allow_implicit_invocation: true
