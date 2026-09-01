@@ -1,5 +1,7 @@
 # YQ Travel Memory Poster
 
+[简体中文](README.zh-CN.md) | English
+
 A Codex skill that turns travel photos into consistent 2:3 memory posters: the original photo occupies the top half, while a coordinated illustrated postcard-journal card fills the bottom half.
 
 ## Install
