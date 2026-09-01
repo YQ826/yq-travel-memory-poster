@@ -1,6 +1,6 @@
 # YQ 旅行记忆海报
 
-简体中文 | [English](README.en.md)
+[English](README.en.md) | 简体中文
 
 这是一个 Codex Skill，用于将旅行照片制作成统一风格的 2:3 竖版记忆海报：上半部分保留真实原图，下半部分搭配协调的插画旅行明信片手账卡。
 
