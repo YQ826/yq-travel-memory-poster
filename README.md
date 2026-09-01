@@ -4,6 +4,19 @@
 
 A Codex skill that turns travel photos into consistent 2:3 memory posters: the original photo occupies the top half, while a coordinated illustrated postcard-journal card fills the bottom half.
 
+## Examples
+
+<table>
+  <tr>
+    <td align="center"><a href="examples/seoul.png"><img src="examples/seoul.png" alt="Seoul travel memory poster" width="480"></a><br><strong>Seoul</strong></td>
+    <td align="center"><a href="examples/hong-kong.png"><img src="examples/hong-kong.png" alt="Hong Kong travel memory poster" width="480"></a><br><strong>Hong Kong</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="examples/nara.png"><img src="examples/nara.png" alt="Nara travel memory poster" width="480"></a><br><strong>Nara</strong></td>
+    <td align="center"><a href="examples/macau.png"><img src="examples/macau.png" alt="Macau travel memory poster" width="480"></a><br><strong>Macau</strong></td>
+  </tr>
+</table>
+
 ## Install
 
 Clone this repository into your Codex skills directory:
@@ -20,6 +33,7 @@ Restart Codex if the skill does not appear immediately, then invoke it with `$yq
 - `agents/openai.yaml` — Codex UI metadata
 - `references/` — layout, art direction, and prompt guidance
 - `scripts/compose_poster.py` — deterministic 50/50 poster assembly
+- `examples/` — finished example posters
 
 The composition script requires [Pillow](https://pypi.org/project/pillow/).
 

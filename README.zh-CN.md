@@ -4,6 +4,19 @@
 
 这是一个 Codex Skill，用于将旅行照片制作成统一风格的 2:3 竖版记忆海报：上半部分保留真实原图，下半部分搭配协调的插画旅行明信片手账卡。
 
+## 案例效果
+
+<table>
+  <tr>
+    <td align="center"><a href="examples/seoul.png"><img src="examples/seoul.png" alt="首尔旅行记忆海报" width="480"></a><br><strong>首尔</strong></td>
+    <td align="center"><a href="examples/hong-kong.png"><img src="examples/hong-kong.png" alt="香港旅行记忆海报" width="480"></a><br><strong>香港</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="examples/nara.png"><img src="examples/nara.png" alt="奈良旅行记忆海报" width="480"></a><br><strong>奈良</strong></td>
+    <td align="center"><a href="examples/macau.png"><img src="examples/macau.png" alt="澳门旅行记忆海报" width="480"></a><br><strong>澳门</strong></td>
+  </tr>
+</table>
+
 ## 安装
 
 将本仓库克隆到 Codex 的 Skills 目录：
@@ -31,6 +44,7 @@ git clone https://github.com/YQ826/yq-travel-memory-poster.git ~/.codex/skills/y
 - `references/layout-spec.md` — 海报和卡片版式规范
 - `references/prompt-template.md` — 图像生成提示词模板
 - `scripts/compose_poster.py` — 确定性的 50/50 海报合成脚本
+- `examples/` — 已完成的案例海报
 
 ## 合成脚本
 
