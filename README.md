@@ -20,3 +20,7 @@ Restart Codex if the skill does not appear immediately, then invoke it with `$yq
 - `scripts/compose_poster.py` — deterministic 50/50 poster assembly
 
 The composition script requires [Pillow](https://pypi.org/project/pillow/).
+
+## License
+
+This project is available under the [MIT License](LICENSE).
